@@ -70,7 +70,7 @@ p{
         flex-direction:column ;
     }
     .img-wrapper{
-        padding-left: 3.5rem;
+        padding-left: 0.5rem;
     }
 }
 
@@ -126,6 +126,7 @@ p{
     opacity: 0.75;
     margin-top: 1rem;
     margin-bottom: 1rem;
+   
 }
 
 .project{
