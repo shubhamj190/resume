@@ -70,7 +70,11 @@ p{
         flex-direction:column ;
     }
     .img-wrapper{
+<<<<<<< HEAD
         padding-left: 0.5rem;
+=======
+        padding-left: 0rem;
+>>>>>>> ff1ba441b87211a98bd6e999bd8dfaa2946b5aa0
     }
 }
 
